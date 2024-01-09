@@ -1,0 +1,23 @@
+{
+  "name": "cursoMidudev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanoenriquejordi/cursoMidudev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanoenriquejordi/cursoMidudev/issues"
+  },
+  "homepage": "https://github.com/vanoenriquejordi/cursoMidudev#readme",
+  "dependencies": {
+    "canvas-confetti": "^1.9.2"
+  }
+}
